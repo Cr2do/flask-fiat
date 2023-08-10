@@ -1,4 +1,4 @@
-# API CONVERSION
+# flask-fiat
 
 ## Installation of dependencies
 All dependencies are in **requirements.txt** file.
